@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FollaAccessories1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f7b8140fcc352a7795e41f8c86cdcb7c844cbcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("FollaAccessories1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FollaAccessories1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
